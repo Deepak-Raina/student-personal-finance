@@ -29,7 +29,7 @@ Backend: Node.js, Express.js
 Database: MongoDB
 # Installation
 Clone the repository:
-git clone https://github.com/yourusername/student-personal-finance.git
+git clone https://github.com/Deepak-Raina/student-personal-finance.git
 
 Navigate to the project directory:
 cd student-personal-finance
